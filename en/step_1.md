@@ -1,58 +1,46 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-1).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+These Sushi Cards are going to help you learn to create computer programs in Scratch!
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+You will make a game where you protect people from malaria by making a parrot catch mosquitoes.
 
+Here's an example of how the finished game might look:
+    
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/215534725/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
+Press the green flag to run the project above. Use the arrow keys to move the parrot around and try to catch the mosquitoes.
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+* Adding and deleting code blocks
+* Basic motion:  move in steps, and turn by degrees
+* Using keyboard controls
+* Using x/y coordinates to position sprites
+* Changing the look of the Stage and of sprites with costumes and show/hide
+* Multiple sprites on screen
+* Forever loops
+* Detecting when sprites are touching
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: What you will need
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+You’re going to need **Scratch 2.0**, so download and install it on your computer by going to [dojo.soy/downloadscratch2](http://dojo.soy/downloadscratch2)
 
 --- /collapse ---

@@ -1,11 +1,26 @@
-title: cd-sebento-scratch-1-scratch2
+title: Beginner Scratch Sushi Cards for Social Innovation
 hero_image: images/banner.png
-description: cd-sebento-scratch-1-scratch2 description
-version: 4
+description: Make your first Scratch program!
+theme: orange # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
 listed: false
-copyedit: false
-last_tested: "2018-12-21"
-steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+ingredient: false
+copyedit: true
+curriculum: ''
+interests: ''
+technologies: scratch
+site_areas: coderdojo, projects
+hardware: ''
+software: scratch
+version: 3.0.0
+last_tested: 2018-05-01
+steps: 
+- title: Introduction
+- title: Getting set up
+- title: Adding & removing code
+- title: Setting the scene
+- title: Moving things around
+- title: All the sprites
+- title: Remote-control mosquito
+- title: Let's catch some flies!
+- title: Keeping score
